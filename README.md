@@ -47,8 +47,7 @@ STEP 5:For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: PRIYAADARSHINI K RegisterNumber:212223240126
-*/
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:YUVASHREE S
 ```
 module ex6sr(s,r,clk,q,qbar);
 input s,r,clk;
